@@ -1,6 +1,6 @@
 
 <p float="center">
-  <a href="https://discord.com/users/rahsya_benova" target="_blank"><img src="assets/logo" align="center" width="390"></a>
+  <a href="https://instagram.com/rahsyabenova" target="_blank"><img src="[assets/logo](https://cdn.discordapp.com/attachments/1265564622551781380/1267673430187049012/Logo_Rahsya_Benova_Akbar.png?ex=66a9a461&is=66a852e1&hm=30b12d2c98188d38a4138a75d52b4cd4cd5843079dc3ab9dd81f8cc5d724ab7b&)" align="center" width="390"></a>
 
 <p float="left">
 
