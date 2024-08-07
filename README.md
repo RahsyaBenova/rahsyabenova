@@ -42,7 +42,7 @@ I like cat
     <p float="left">
   <img src="https://cdn.discordapp.com/attachments/906608326274609152/1266783574464528555/808829950840799292.gif?ex=66a667a3&is=66a51623&hm=7328351cb3576849148cb1ce6db71aa586229d721471df39f97a89de1d39699d&" width=269 height=300 align="right">
       
-![snake gif](https://github.com/RahsyaBenova/rahsyabenova/blob/output/github-contribution-grid-snake.gif?raw=true)
+![snake gif](https://github.com/RahsyaBenova/rahsyabenova/blob/output/github-contribution-grid-snake.gif)
 
   <h1>&nbsp; &lt;/ Tech Stack &gt; </h1>
   <p float="left">
