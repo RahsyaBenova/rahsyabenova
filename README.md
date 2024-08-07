@@ -26,14 +26,21 @@
             </a>  
             <a href="https://www.instagram.com/rahsyabenova/" target="_blank" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  target="_blank"width="52" height="40" alt="instagram logo" style="max-width: 100%;">
-            </a>  <br>
+            </a>  <br> <br><br><br>
+
+
+I'm **Rahsya Benova Akbar**, an enthusiast student who has an interest in the latest technology.
+AI and IoT Enthusiast.
+I like cat
+
+<br>
             <br> <br> <br>
       </div>
     </p>  
 <!-- tech -->
 <!-- tech -->
     <p float="left">
-  <img src="https://cdn.discordapp.com/attachments/906608326274609152/1266783574464528555/808829950840799292.gif?ex=66a667a3&is=66a51623&hm=7328351cb3576849148cb1ce6db71aa586229d721471df39f97a89de1d39699d&" width=249 height=245 width="auto" align="right">
+  <img src="https://cdn.discordapp.com/attachments/906608326274609152/1266783574464528555/808829950840799292.gif?ex=66a667a3&is=66a51623&hm=7328351cb3576849148cb1ce6db71aa586229d721471df39f97a89de1d39699d&" width=269 height=300 align="right">
       
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
