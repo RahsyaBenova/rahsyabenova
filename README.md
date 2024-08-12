@@ -73,5 +73,10 @@ I like cat
         <img src="https://img.shields.io/badge/mySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
       </li>
     </ul>
+<div align="center">
+  <a href="https://open.spotify.com/user/31algpk75b4w74754dnoofgqgzi4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31algpk75b4w74754dnoofgqgzi4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
   </p>
 </p>
