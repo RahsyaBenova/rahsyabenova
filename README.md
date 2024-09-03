@@ -65,9 +65,12 @@ I like cat
       </li>
     </ul>
 <div align="center">
-  <a href="https://open.spotify.com/user/31algpk75b4w74754dnoofgqgzi4">
+<!--   <a href="https://open.spotify.com/user/31algpk75b4w74754dnoofgqgzi4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31algpk75b4w74754dnoofgqgzi4&count=5" alt="Spotify recently played"  />
-  </a>
+  </a> -->
+  <a href="https://lanyard.kyrie25.me/api/637553242783350785?showBanner=true"></a>
+    <img alt="discord" src="https://lanyard.kyrie25.me/api/637553242783350785">
+
 </div>
   </p>
 </p>
