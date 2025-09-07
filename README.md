@@ -7,7 +7,7 @@
   <!-- Info -->
   <p float="left px-5">
     <h1>&nbsp; &lt;/ Rahsya Benova Akbar &gt; </h1>
-    Currently is a Vocational High School student, majoring in software engineering at SMK Negeri 2 Pekanbaru <br/>
+    Currently is an Information Technology student at President University.<br/>
   </p>
   
  <!-- Contact -->
